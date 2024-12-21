@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Books>
+  <Book>
+    <ID>1</ID>
+    <Title>The Great Gatsby</Title>
+    <AuthorID>2</AuthorID>
+    <BorrowerID>1</BorrowerID>
+    <IsAvailable>false</IsAvailable>
+  </Book>
+  <Book>
+    <ID>5</ID>
+    <Title>To Kill a Mockingbird</Title>
+    <AuthorID>3</AuthorID>
+    <BorrowerID>1</BorrowerID>
+    <IsAvailable>false</IsAvailable>
+  </Book>
+  <Book>
+    <ID>6</ID>
+    <Title>To Kill a Mockingbird1</Title>
+    <AuthorID>3</AuthorID>
+    <BorrowerID>1</BorrowerID>
+    <IsAvailable>false</IsAvailable>
+  </Book>
+  <Book>
+    <ID>7</ID>
+    <Title>example 1</Title>
+    <AuthorID>3</AuthorID>
+    <BorrowerID>1</BorrowerID>
+    <IsAvailable>false</IsAvailable>
+  </Book>
+</Books>

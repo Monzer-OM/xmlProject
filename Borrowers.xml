@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Borrowers>
+  <Borrower>
+    <ID>1</ID>
+    <Name>John Doe</Name>
+    <BorrowedBooks>
+      <BookID>1</BookID>
+    <BookID>5</BookID><BookID>6</BookID><BookID>7</BookID></BorrowedBooks>
+  </Borrower>
+</Borrowers>
